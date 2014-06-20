@@ -1,5 +1,3 @@
-tidy
-====
 
 coursera course project
 
